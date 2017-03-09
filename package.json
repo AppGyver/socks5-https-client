@@ -20,7 +20,7 @@
 		"url": "https://github.com/mattcg/socks5-https-client.git"
 	},
 	"dependencies": {
-		"socks5-client": "~1.2.3"
+		"socks5-client": "AppGyver/socks5-client"
 	},
 	"devDependencies": {
 		"mocha": "~3.1.2",
